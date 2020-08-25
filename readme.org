@@ -12,11 +12,11 @@ software, projects, life
 
 /general purpose/
 
-- openbsd :: operating system (unix variant)
-- perl :: programming language (multi-paradigm)
-- postgresql :: database (+mostly+ relational)
-- emacs :: ide/pim (+qv. gecko+)
-- tex :: typesetting ([[https://ctan.org/pkg/texlive][texlive]])
+- [[https://github.com/openbsd/src][openbsd]] :: operating system (unix variant)
+- [[https://github.com/Perl/perl5][perl]] :: programming language (multi-paradigm)
+- [[https://github.com/postgres/postgres][postgresql]] :: database (+mostly+ relational)
+- [[https://github.com/emacs-mirror/emacs/][emacs]] :: ide/pim (+qv. gecko+)
+- [[https://github.com/latex3/latex2e/releases][tex]] :: typesetting ([[https://github.com/TeX-Live/texlive-source][texlive]])
 
 ------
 
