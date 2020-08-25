@@ -2,23 +2,36 @@
 
 below is the list of things i'm interested in
 
+[[https://github.githubassets.com/images/mona-whisper.gif]]
+
 ** interests
 
 software, projects, life
 
 *** software
 
-- openbsd
-- perl
-- postgresql
-- emacs
+/general purpose/
+
+- openbsd :: operating system (unix)
+- perl :: programming language (multi-paradigm)
+- postgresql :: database (relational)
+- emacs :: ide/pim (+qv. gecko+)
+- tex :: typesetting ([[https://ctan.org/pkg/texlive][texlive]])
+
+------
 
 *** projects
 
 - openstreetmap
 - wikimedia
+- mozilla
+- gnu
 
 *** life
 
-- coffee
-- reading
+- coffee :: standard drink
+- reading :: books, articles
+- podcasts :: [[https://github.com/AntennaPod/AntennaPod][antennapod]] while hands are busy
+- self :: self-directedness, self-improvement, introspection
+- alternative :: alternative lifestyle, maker culture etc
+- etymology :: english, linguistics ([[https://en.wiktionary.org/wiki/Wiktionary:Main_Page][wiktionary]])
