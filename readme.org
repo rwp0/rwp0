@@ -24,10 +24,10 @@ software, projects, life
 
 /inspirational projects/
 
-- openstreetmap
-- wikimedia
-- mozilla
-- gnu
+- [[https://github.com/openstreetmap][openstreetmap]]
+- [[https://github.com/wikimedia][wikimedia]]
+- [[https://github.com/mozilla/][mozilla]]
+- [[https://github.com/gitGNU][gnu]]
 
 *** life
 
