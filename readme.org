@@ -33,7 +33,7 @@ software, projects, life
 
 /concerning the rest, one cannot/ (+shouldn't+) /avoid living/
 
-- coffee :: standard drink
+- +coffee+ :: standard drink
 - reading :: books, articles
 - podcasts :: [[https://github.com/AntennaPod/AntennaPod][antennapod]] while hands are busy
 - self :: self-directedness, self-improvement, introspection
