@@ -1,6 +1,8 @@
 * readme
 
-/below is the list of things i'm interested in/
+/all work done here is experimental and draft/
+
+below is the list of things i'm interested in
 
 [[https://github.githubassets.com/images/mona-whisper.gif]]
 
