@@ -1,6 +1,6 @@
 * readme
 
-/all work done here is experimental and draft/
+/all work done here is *draft* (experimental)/
 
 below is the list of things i'm interested in
 
