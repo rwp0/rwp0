@@ -1,43 +1,43 @@
-* readme
+* Readme
 
-/all work done here is draft (experimental)/
+  /All work done here is draft (experimental)/
+  
+  [[https://github.githubassets.com/images/mona-whisper.gif]]
 
-[[https://github.githubassets.com/images/mona-whisper.gif]]
+  Below is the list of things i'm interested in
 
-below is the list of things i'm interested in
+** Interests
 
-** interests
+   Software, projects, life
 
-software, projects, life
+*** Software
 
-*** software
+    /General-purpose/
 
-/general purpose/
-
-- [[https://github.com/openbsd/src][openbsd]] :: operating system (unix variant)
-- [[https://github.com/Perl/perl5][perl]] :: programming language (multi-paradigm)
-- [[https://github.com/postgres/postgres][postgresql]] :: database (+mostly+ relational)
-- [[https://github.com/emacs-mirror/emacs/][emacs]] :: ide/pim (+qv. gecko+)
-- [[https://github.com/latex3/latex2e/releases][tex]] :: typesetting ([[https://github.com/TeX-Live/texlive-source][texlive]])
+    - [[https://github.com/openbsd/src][OpenBSD]] :: operating system (Unix variant)
+    - [[Https://github.com/Perl/perl5][Perl]] :: Programming language (multi-paradigm)
+    - [[Https://github.com/postgres/postgres][PostgreSQL]] :: Database (+mostly+ relational)
+    - [[Https://github.com/emacs-mirror/emacs/][Emacs]] :: IDE/PIM (+qv. gecko+)
+    - [[HTTPS://github.com/latex3/latex2e/releases][TeX]] :: typesetting ([[https://github.com/TeX-Live/texlive-source][TeX Live]])
 
 ------
 
-*** projects
+*** Projects
 
-/inspirational projects/
+    /Inspirational projects/
 
-- [[https://github.com/openstreetmap][openstreetmap]]
-- [[https://github.com/wikimedia][wikimedia]]
-- [[https://github.com/mozilla/][mozilla]]
-- [[https://github.com/gitGNU][gnu]]
+    - [[https://github.com/openstreetmap][OpenStreetMap]]
+    - [[https://github.com/wikimedia][Wikimedia]]
+    - [[https://github.com/mozilla/][Mozilla]]
+    - [[https://github.com/gitGNU][GNU]]
 
-*** life
+*** Life
 
-/concerning the rest, one cannot/ (+shouldn't+) /avoid living/
+    /Concerning the rest, one cannot/ (+shouldn't+) /avoid living/
 
-- +coffee+ :: standard drink
-- reading :: books, articles
-- podcasts :: [[https://github.com/AntennaPod/AntennaPod][antennapod]] while hands are busy
-- self :: self-directedness, self-improvement, introspection
-- alternative :: alternative lifestyle, maker culture etc
-- etymology :: english, linguistics ([[https://en.wiktionary.org/wiki/Wiktionary:Main_Page][wiktionary]])
+    - +Coffee+ :: Standard drink
+    - Reading :: Books, articles
+    - Podcasts :: [[https://github.com/AntennaPod/AntennaPod][Antennapod]] while hands are busy
+    - Self :: Self-directedness, self-improvement, introspection
+    - Alternative :: Alternative lifestyle, maker culture etc
+    - Etymology :: English, Linguistics ([[https://en.wiktionary.org/wiki/Wiktionary:Main_Page][Wiktionary]])
