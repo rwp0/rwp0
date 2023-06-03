@@ -4,11 +4,11 @@
   
   [[https://github.githubassets.com/images/mona-whisper.gif]]
 
-  Below is the list of things I'm interested in
+  Below is the list of things I'm interested in:
 
 ** Interests
 
-   Software, projects, life
+   Software, Projects, Life
 
 *** Software
 
@@ -35,7 +35,7 @@
 
     /Concerning the rest, one cannot/ (+shouldn't+) /avoid living/
 
-    - +Coffee+ :: Standard drink
+    - Tea :: Standard drink
     - Reading :: Books, articles
     - Podcasts :: [[https://github.com/AntennaPod/AntennaPod][Antennapod]] while hands are busy
     - Self :: Self-directedness, self-improvement, introspection
