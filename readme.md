@@ -18,11 +18,11 @@ Software, Projects, Life
 
 *General-purpose*
 
-- [[https://github.com/openbsd/src][OpenBSD]] :: operating system (Unix variant)
-- [[Https://github.com/Perl/perl5][Perl]] :: Programming language (multi-paradigm)
-- [[Https://github.com/postgres/postgres][PostgreSQL]] :: Database (+mostly+ relational)
-- [[Https://github.com/emacs-mirror/emacs/][Emacs]] :: IDE/PIM (+qv. gecko+)
-- [[HTTPS://github.com/latex3/latex2e/releases][TeX]] :: typesetting ([[https://github.com/TeX-Live/texlive-source][TeX Live]])
+- [OpenBSD](https://github.com/openbsd/src) - Operating system (Unix variant)
+- [Perl](https://github.com/Perl/perl5) - Programming language (multi-paradigm)
+- [PostgreSQL](https://github.com/postgres/postgres) - Database (+mostly+ relational)
+- [Emacs](https://github.com/emacs-mirror/emacs/) - IDE/PIM (+qv. gecko+)
+- [LaTeX](https://github.com/latex3/latex2e/releases) - Typesetting [TeX Live](https://github.com/TeX-Live/texlive-source)
 
 ------
 
