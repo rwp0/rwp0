@@ -30,21 +30,21 @@ Software, Projects, Life
 
 *Inspirational projects*
 
-- [[https://github.com/openstreetmap][OpenStreetMap]]
-- [[https://github.com/wikimedia][Wikimedia]]
-- [[https://github.com/mozilla/][Mozilla]]
-- [[https://github.com/gitGNU][GNU]]
+- [OpenStreetMap]([https://github.com/openstreetmap)
+- [Wikimedia](https://github.com/wikimedia)
+- [Mozilla](https://github.com/mozilla/)
+- [GNU](https://github.com/gitGNU)
 
 ### Life
 
 *Concerning the rest, one cannot (~shouldn't~) avoid living*
 
-    - Tea :: Standard drink
-    - Reading :: Books, articles
-    - Podcasts :: [[https://github.com/AntennaPod/AntennaPod][Antennapod]] while hands are busy
-    - Self :: Self-directedness, self-improvement, introspection
-    - Alternative :: Alternative lifestyle, maker culture etc
-    - Etymology :: English, Linguistics ([[https://en.wiktionary.org/wiki/Wiktionary:Main_Page][Wiktionary]])
+- **Tea** - Standard drink
+- **Reading** - Books, articles
+- **Podcasts** - [Antennapod](https://github.com/AntennaPod/AntennaPod) while hands are busy
+- **Self** - Self-directedness, self-improvement, introspection
+- **Alternative** - Alternative lifestyle, maker culture etc
+- **Etymology** - English, Linguistics [Wiktionary]((https://en.wiktionary.org/wiki/Wiktionary:Main_Page))
 
 ## Thanks for reading
 
