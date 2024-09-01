@@ -40,11 +40,11 @@ Software, Projects, Life
 *Concerning the rest, one cannot (~shouldn't~) avoid living*
 
 - **Tea** - Standard drink
-- **Reading** - Books, articles
+- **Reading** - Books, articles, esp. Wikipedia
 - **Podcasts** - [Antennapod](https://github.com/AntennaPod/AntennaPod) while hands are busy
 - **Self** - Self-directedness, self-improvement, introspection
 - **Alternative** - Alternative lifestyle, maker culture etc
-- **Etymology** - English, Linguistics [Wiktionary]((https://en.wiktionary.org/wiki/Wiktionary:Main_Page))
+- **Etymology** - English, Linguistics, [Wiktionary]((https://en.wiktionary.org/wiki/Wiktionary:Main_Page))
 
 ## Thanks for reading
 
